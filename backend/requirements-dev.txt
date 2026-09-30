@@ -1,0 +1,2 @@
+-r requirements-anthropic.txt
+pytest>=8.0
